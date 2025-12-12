@@ -1,1 +1,1 @@
-# image-assets
+# image-assets.github.io
